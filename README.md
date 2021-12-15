@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">
+    Hello World!
+  <img src="https://emojis.slackmojis.com/emojis/images/1618168199/29411/world.gif?1618168199" width="28"/>
+</h1>
 
-<!--
-**eymenkhater/eymenkhater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A litte about me...
 
-Here are some ideas to get you started:
+* Currently a Software Engineer at <a href="">@Farmazon</a> **(Health Tech)** in Turkey.
+* Open-source enthusiast and likes to work remotely.
+* Currently learning/improving about Design Patterns, Software Architectural Patterns and Performance Optimizations.
+* A passionate researcher but unafraid to make mistakes at the same time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### More about me...
+
+* Motorcycle night rider, backpacker & digital nomad.
+* An amateur music producer & live mix maker.
+* A little bit audiophile.
+* Harder, Better, Stronger!
+
+<br>
+<br>
+
+
+![Eymen Khater's GitHub stats](https://github-readme-stats.vercel.app/api?username=eymenkhater&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark)&nbsp;&nbsp;&nbsp;![Eymen Khater's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eymenkhater&layout=compact&theme=github_dark&card_width=405)
+
