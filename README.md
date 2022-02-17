@@ -7,7 +7,7 @@
 
 * Currently a Software Engineer at <a href="">@Farmazon</a> **(Health Tech)** in Turkey.
 * Open-source enthusiast and likes to work remotely.
-* Currently learning/improving about Design Patterns, Software Architectural Patterns and Performance Optimizations.
+* Currently learning/improving in Design Patterns, Software Architectural Patterns and Performance Optimizations.
 * A passionate researcher but unafraid to make mistakes at the same time.
 
 
