@@ -5,7 +5,7 @@
 
 ### A litte about me...
 
-* Currently a Software Engineer at <a href="">@Farmazon</a> **(Health Tech)** in Turkey.
+* Currently a Senior Software Engineer at <a href="">@Cherry</a> **(FinTech)** in Turkey.
 * Open-source enthusiast and likes to work remotely.
 * Currently learning/improving in Design Patterns, Software Architectural Patterns and Performance Optimizations.
 * A passionate researcher but unafraid to make mistakes at the same time.
